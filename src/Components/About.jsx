@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,21 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I'm a Web Designer studying at Lagos State University. I am a creative, self-motivated, and hardworking individual with a strong desire to learn and grow professionally by creating innovative solutions for web and mobile applications. I am continuously developing my skills to become a professional Software Engineer and deliver cutting-edge solutions to my clients.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
   "Web design",
-  "User experience",
+  "Color theory",
   "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Accessibility",
+  "Knowledge of HTML, CSS, and JavaScript",
   "Graphic design",
+  "Digital Marketing",
+  "Time management",
+  "Communication",
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am extremely enthusiastic about taking on new challenges and exploring the latest technologies to create cutting-edge designs. I am constantly expanding my knowledge and skills in various technologies to stay up-to-date with the latest trends and techniques. My ultimate goal is to provide effective visual solutions to design problems and create a unique style and approach that stands out from the rest. I am passionate about bringing my own creative spin to each project and delivering high-quality work that exceeds expectations.";
 
 const About = () => {
   return (
