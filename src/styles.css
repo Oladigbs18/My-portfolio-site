@@ -74,11 +74,11 @@ p {
 }
 
 p.large {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 p.small {
-  font-size: 15px;
+  font-size: 17px;
 }
 
 hr {
@@ -90,16 +90,16 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: #080802;
 }
 
 a {
-  color: black;
+  color: rgb(224, 19, 190);
   text-decoration: none;
 }
 
 a:hover {
-  color: #4e567e;
+  color: #0ed4ee;
 }
 
 .container {
