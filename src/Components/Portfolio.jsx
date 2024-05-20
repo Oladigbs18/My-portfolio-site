@@ -31,10 +31,10 @@ const imageAltText = "A desk with a laptop, notebook, and coffee mug.";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "GtBank ATM card🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed a new ATM card for GtBank. The card is designed to be more secure and user-friendly.",
+    url: "https://github.com/Oladigbs18/gt-bank-atm-card",
   },
   {
     title: "Web Development for Beginners",
@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/Oladigbs18/My-portfolio-site",
   },
   {
     title: "GitHub Codespaces and github.dev",
